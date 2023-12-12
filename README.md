@@ -76,5 +76,12 @@ listed_in(city) : contains the neighborhood in which the restaurant is located
 * Grouping the type of restaurants by location.
 
 * Which locations have top cuisines.
+
+  # conclusion
+  1. Bangalore is a major metropolitan city with a diverse population fom all parts of india and beyond. As a result,there is a high demand for the diverse cuisines that came from these different regions.North indian and South indian cuisines are popular because of their close proximaty to the city,while American,Italian,Chinese and Korean cuisines have become increasingly popular because of their exotic flavours and appeal.Bangalore has became a cosmopolitan city , and this has further contributed to the popularity of these cuisines
+
+2. Overall, the exploratory data analysis found that the restaurant industry in bengalore is highly diverse,with a range of cuisines,pricing,and restaurant types available. The analysis also found that the city is home to some of the most popular restaurants in india,as well s some of the highest raterd.with its vibrant and diverse restaurant scene,bangalore is a great place for locals and tourists alike to explore and experience the best of indian cuisine
+
+* Speaking on the data percpective.The data is very clean but requires basic data cleaning operations to be implemented. Changing some of the datatypes and removing some of invalid entries were a necessity before starting upon the anaysis.
   
 
