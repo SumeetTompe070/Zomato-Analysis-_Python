@@ -58,3 +58,23 @@ menu_item : contains list of menus available in the restaurant.
 listed_in(type) : type of meal.
 
 listed_in(city) : contains the neighborhood in which the restaurant is located
+
+# Key Insights
+
+* What percentage of restaurants offer online ordering.
+
+* Relation between Online Ordering and Rating of Restaurants.
+
+* Relation between Table Booking and Rating of Restaurants.
+
+* Correlation between the average rating of a restaurant and the number of  votes.
+
+* Distribution of restaurant ratings across different locations.
+
+* Which locations have the highest number of restaurants listed.
+
+* Grouping the type of restaurants by location.
+
+* Which locations have top cuisines.
+  
+
